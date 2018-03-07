@@ -21,7 +21,7 @@ Neto frontend UI-kit by by Phil Connah
 - Customer information input
 	- Contact information - heading, link collapse, form group, link, button
 	- Shipping methods- form groups, accordions,
-	- Payment details -  accordions, checkbox accordions? 
+	- Payment details -  accordions, checkbox accordions?
 - List group / section summary
 - Sidebar - link, heading, image, text, card/table?
 - Footer - E-commerce Software by Neto
@@ -38,3 +38,5 @@ Neto frontend UI-kit by by Phil Connah
 - Custom information - card, text, heading
 - Order summary - heading, image, link, card/table?
 - Footer - merchants
+
+![](https://github.com/philcon93/netofrontend-uikit/blob/master/invoice-desktop.png)
