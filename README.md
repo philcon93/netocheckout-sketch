@@ -26,6 +26,8 @@ Neto frontend UI-kit by by Phil Connah
 - Sidebar - link, heading, image, text, card/table?
 - Footer - E-commerce Software by Neto
 
+![](https://github.com/philcon93/netofrontend-uikit/blob/master/checkout-desktop.png)
+
 ## Invoice
 
 - Header - merchants
