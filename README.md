@@ -2,18 +2,6 @@
 
 Neto frontend UI-kit by by Phil Connah
 
-- Typography,
-- Images,
-- Alerts,
-- Labels,
-- Buttons,
-- List group,
-- Modal,
-- Cards,
-- Tables,
-- Input group,
-- Forms
-
 ## Checkout
 
 - Header - Logo, heading
@@ -29,16 +17,5 @@ Neto frontend UI-kit by by Phil Connah
 ![](https://github.com/philcon93/netofrontend-uikit/blob/master/checkout-desktop.png)
 
 ## Invoice
-
-- Header - merchants
-- Page title
-- Alerts
-- Text
-- Payment instructions - card, text
-- Activate your account - card, text, button
-- Continue shopping button
-- Custom information - card, text, heading
-- Order summary - heading, image, link, card/table?
-- Footer - merchants
 
 ![](https://github.com/philcon93/netofrontend-uikit/blob/master/invoice-desktop.png)
