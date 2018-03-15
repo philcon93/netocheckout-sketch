@@ -10,4 +10,4 @@ Neto frontend UI-kit by Phil Connah
 
 ## Invoice
 
-![](https://github.com/philcon93/netofrontend-uikit/blob/master/invoice-desktop.png)
+![](https://github.com/philcon93/netofrontend-uikit/blob/master/invoice/d/default.png)
